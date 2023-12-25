@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5858d5476c007394da6128edb7974edd, type: 3}
+  m_Name: WeaponDataSO
+  m_EditorClassIdentifier: 
+  weapons:
+  - weaponType: 0
+    weapon: {fileID: 4473537786049673925, guid: ae6516c2da3ad78499c42977bb5f1eed, type: 3}
+    weaponOnHand: {fileID: 100000, guid: 1c040a6e7d23e904b87e93fb9c66a037, type: 3}
+    range: 0
+    speed: 0
+    price: 0
+  - weaponType: 1
+    weapon: {fileID: -1385394023382644865, guid: 753ac99468e96754183e72fc40b4382f, type: 3}
+    weaponOnHand: {fileID: -927199367670048503, guid: ceffb78c74021304889ac584f173d156, type: 3}
+    range: 5
+    speed: 0
+    price: 100
+  - weaponType: 2
+    weapon: {fileID: -7924024250082067241, guid: 12d91785a0370c8429bbf0ccc17040ca, type: 3}
+    weaponOnHand: {fileID: 100000, guid: 77de8014aff37804f92ab58c8817cced, type: 3}
+    range: 0
+    speed: 5
+    price: 200

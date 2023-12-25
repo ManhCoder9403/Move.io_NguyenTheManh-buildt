@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9a7d4bae16f7a541bcda59032856621, type: 3}
+  m_Name: HairDataSO
+  m_EditorClassIdentifier: 
+  _skinList:
+  - id: 0
+    image: {fileID: 2800000, guid: eb69cff6254433d4e9c38084ef04f590, type: 3}
+    item: {fileID: 434243470003311294, guid: c2211325e17e57a4fbb02fb4d174de72, type: 3}
+    material: {fileID: 0}
+    speed: 0
+    range: 1
+    price: 100
+  - id: 1
+    image: {fileID: 2800000, guid: 80557858a34543949a0be713d0f29080, type: 3}
+    item: {fileID: 1747267251702072645, guid: 30a15d196349a7c47860cf122e62988e, type: 3}
+    material: {fileID: 0}
+    speed: 1
+    range: 0
+    price: 100
+  - id: 2
+    image: {fileID: 2800000, guid: e18f18b183a01424f8c20f088905e355, type: 3}
+    item: {fileID: 6388929356886540616, guid: 10ec30d24201eea4b94a859b7d547372, type: 3}
+    material: {fileID: 0}
+    speed: 0
+    range: 2
+    price: 200
+  - id: 3
+    image: {fileID: 2800000, guid: 5c06bab390a79764d8d0539b57b1cf45, type: 3}
+    item: {fileID: 3551621921805650827, guid: cc69981a8efe69a4f82b45b65c557602, type: 3}
+    material: {fileID: 0}
+    speed: 2
+    range: 0
+    price: 200
+  - id: 4
+    image: {fileID: 2800000, guid: da18f161bc01907449ffa4e6f5b50614, type: 3}
+    item: {fileID: 6896290423815477503, guid: e422cd9669309df468d054e5db8e4eac, type: 3}
+    material: {fileID: 0}
+    speed: 0
+    range: 3
+    price: 200
+  - id: 5
+    image: {fileID: 2800000, guid: 703801d9a7f60c244a3ee076f49edb23, type: 3}
+    item: {fileID: 10583836399067891, guid: 43be7fb570fa4534eb5cec893774e1cb, type: 3}
+    material: {fileID: 0}
+    speed: 3
+    range: 0
+    price: 300
+  - id: 6
+    image: {fileID: 2800000, guid: afbe2aeef5262db48ac8ac1124dfd412, type: 3}
+    item: {fileID: 544387042784298884, guid: 869ea78b92c662246b6b48fa4bc561da, type: 3}
+    material: {fileID: 0}
+    speed: 0
+    range: 4
+    price: 300
+  - id: 7
+    image: {fileID: 2800000, guid: 618234528de04654db5493d4d04dbbf2, type: 3}
+    item: {fileID: 3586132264238887731, guid: 7f40259a2ac938d41921be7ff5454650, type: 3}
+    material: {fileID: 0}
+    speed: 4
+    range: 0
+    price: 500
+  - id: 8
+    image: {fileID: 2800000, guid: 578c1840f64bd634bad62c6f60eba249, type: 3}
+    item: {fileID: 2149411492280521151, guid: 8aacd0f5591ea7a458945bb51f28471a, type: 3}
+    material: {fileID: 0}
+    speed: 0
+    range: 5
+    price: 500
